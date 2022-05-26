@@ -1,0 +1,12 @@
+detailed imformation data of f with penalty: [1.0005612, 0.9995293, 0.99565, 0.9816913, 0.9519159, 0.90159124, 0.826985, 0.72548264, 0.59592515, 0.43857354, 0.25234088] 
+ mae of f with penalty: [0.003869086518995227] 
+ mse of f with penalty: [2.4244384786144398e-05] 
+ average mae of f with penalty: 0.003869086518995227 
+ average mse of f with penalty: 2.4244384786144398e-05 
+ detailed imformation data of f: [1.0001225, 0.9943908, 0.9957377, 0.9794883, 0.94728106, 0.89550656, 0.8205989, 0.72033644, 0.5943237, 0.44240987, 0.2527216] 
+ mae of f: [0.002411112359921091] 
+ mse of f: [8.741820996368911e-06] 
+ average mae of f: 0.002411112359921091 
+ average mse of f: 8.741820996368911e-06 
+ loss of output data: [tensor(2.5361e-07)] 
+ average loss of output data: 2.5360788e-07
